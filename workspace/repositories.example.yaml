@@ -1,0 +1,27 @@
+repos:
+  ju9_jornada:
+    path: "<LOCAL_PATH>"
+    type: frontend
+    context: journey
+    account: JU9
+
+  kf6_building_block_oferta:
+    path: "<LOCAL_PATH>"
+    type: frontend
+    context: building-block
+    account: KF6
+
+  bff_oferta:
+    path: "<LOCAL_PATH>"
+    type: backend
+    context: bff
+
+  api_oferta:
+    path: "<LOCAL_PATH>"
+    type: backend
+    context: product-api
+
+  bruno:
+    path: "<LOCAL_PATH>"
+    type: collection
+    context: test-tools

@@ -1,0 +1,10 @@
+TODO — template oficial a ser substituído pelo padrão da squad.
+
+História:
+GMUD:
+IUQuali:
+Cenário:
+Ambiente:
+Data:
+Evidência SharePoint:
+Observações:
